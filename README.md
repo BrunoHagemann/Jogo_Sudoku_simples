@@ -33,8 +33,3 @@ Após executar o programa, você verá o tabuleiro inicial. O jogo solicitará a
 * O jogo irá então atualizar o tabuleiro e solicitar a próxima jogada.
 * Se a jogada for inválida, voce devera validar.
 
----
-
-### Autor
-
-Desenvolvido por **[Seu Nome ou Seu Nickname]**.
